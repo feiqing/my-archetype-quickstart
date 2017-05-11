@@ -1,4 +1,4 @@
-package com.fq.archetypes;
+package com.cainiao.archetypes;
 
 
 import org.junit.Test;
